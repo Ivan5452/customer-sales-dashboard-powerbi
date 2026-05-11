@@ -46,25 +46,17 @@ The raw dataset was transformed into a clean analytical model.
 
 ## Key Cleaning Steps
 
- Corrected data types  
+ Corrected data types
 Removed duplicate rows  
  Trimmed and cleaned text values  
- Standardized missing values  
+Standardized missing values 
  Replaced nulls in numeric KPI fields  
  Created business-friendly calculated columns  
 
 ## Derived Columns
 
-Purchase Amount Clean
-Previous Purchases Clean
-Age Group
-Loyalty Segment
-Spend Bucket
-IsSubscribed
-IsDiscountApplied
-Has Review
-Season Sort
-Frequency Sort
+Purchase Amount Clean , Previous Purchases Clean , Age Group, Loyalty Segment, Spend Bucket, IsSubscribed, IsDiscountApplied, 
+Has Review, Season Sort, Frequency Sort
 
 
 
@@ -73,15 +65,7 @@ Frequency Sort
 Main KPIs created in Power BI:
 
 
-Total Revenue
-Total Purchases
-Total Customers
-Average Order Value
-Average Rating
-Subscription Rate
-Discount Rate
-Review Coverage
-Avg Previous Purchases
+Total Revenue, Total Purchases, Total Customers, Average Order Value, Average Rating, Subscription Rate, Discount Rate, Review Coverage, Avg Previous Purchases
 
 # Interactive Features
 
